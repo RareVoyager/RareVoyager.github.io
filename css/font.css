@@ -1,0 +1,38 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 5111726 */
+  src: url('//at.alicdn.com/t/c/font_5111726_cz15mdhfh1l.woff2?t=1768552656005') format('woff2'),
+       url('//at.alicdn.com/t/c/font_5111726_cz15mdhfh1l.woff?t=1768552656005') format('woff'),
+       url('//at.alicdn.com/t/c/font_5111726_cz15mdhfh1l.ttf?t=1768552656005') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 26px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-github:before {
+  content: "\e85a";
+}
+
+.icon-QQ:before {
+  content: "\e876";
+}
+
+.icon-weixin:before {
+  content: "\e607";
+}
+
+.icon-bilibili:before {
+  content: "\eb78";
+}
+
+.icon-fanzhipai-copy:before {
+  content: "\e600";
+}
+
+.icon-Clothing_moshumao_magic-hat_linear:before {
+  content: "\e89d";
+}
