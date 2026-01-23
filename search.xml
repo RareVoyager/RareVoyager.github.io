@@ -24,6 +24,24 @@
         <content type="html"><![CDATA[<h2 id="my-first-文章"><a href="#my-first-文章" class="headerlink" title="my first 文章"></a>my first 文章</h2><div class="table-container"><table><thead><tr><th>命令</th><th>简写</th><th>作用</th></tr></thead><tbody><tr><td><code>hexo init</code></td><td>–</td><td>初始化博客</td></tr><tr><td><code>hexo clean</code></td><td><code>hexo c</code></td><td>清理缓存</td></tr><tr><td><code>hexo generate</code></td><td><code>hexo g</code></td><td>生成静态文件</td></tr><tr><td><code>hexo server</code></td><td><code>hexo s</code></td><td>本地预览</td></tr><tr><td><code>hexo new</code></td><td>–</td><td>新建文章</td></tr><tr><td><code>hexo new page</code></td><td>–</td><td>新建页面</td></tr><tr><td><code>hexo deploy</code></td><td><code>hexo d</code></td><td>部署</td></tr><tr><td><code>hexo -v</code></td><td>–</td><td>查看版本</td></tr><tr><td><code>hexo doctor</code></td><td>–</td><td>环境检测</td></tr></tbody></table></div>]]></content>
       
       
+      <categories>
+          
+          <category> 基础知识 </category>
+          
+          <category> hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+            <tag> github </tag>
+            
+            <tag> 博客 </tag>
+            
+        </tags>
       
     </entry>
     
